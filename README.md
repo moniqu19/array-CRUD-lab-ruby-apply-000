@@ -60,7 +60,7 @@ This method takes in one argument, the array on which we want to operate. Use th
 ### `#remove_element_from_start_of_array`
 
 This method takes in one argument, the array on which we want to operate. Use the `#shift` method to remove the first item from the array.
-
+wwwwewwwwweewweseescffddddddddscvcvcvcxds
 ### `#retrieve_element_from_index`
 
 This method takes in two arguments, an array and the index number whose element we want to retrieve. Use the `[]`, bracket method, to return the element stored at that index number of the given array.
